@@ -1,0 +1,24 @@
+header {
+    background-color: #530449;
+}
+
+#h1 {
+    font-size: 2.5em;
+}
+
+#portail {
+    font-size: 2em;
+}
+
+#menu {
+    font-size: 1.5em;
+}
+
+i {
+    font-size: 2.5em;
+}
+
+.border {
+    height: 4em;
+    width: 4em;
+}
